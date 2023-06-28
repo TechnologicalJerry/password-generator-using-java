@@ -1,1 +1,1 @@
-# password-generator-using-java
+# JAVA password-generator-using-java
